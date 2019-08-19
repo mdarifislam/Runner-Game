@@ -1,0 +1,42 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Game\Gaming Program\Runner Game\Runner Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.327866 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2b60 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.358500 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 716.
+Total: 0.587596 ms (FindLiveObjects: 0.063506 ms CreateObjectMapping: 0.073128 ms MarkObjects: 0.427867 ms  DeleteObjects: 0.022451 ms)
+
+Quit Requested!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
